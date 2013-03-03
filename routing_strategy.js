@@ -1,6 +1,6 @@
 /**
  * A basic routing strategy that works in node.js and WebPop
- * (requires ssjs_nodify/nodify.js to be previously loaded in WebPop e.g. in app.js)
+ * (requires nodify.js to be previously loaded in WebPop e.g. in app.js)
  */
 exports.basic = function(req,res) {
     try {

@@ -1,8 +1,8 @@
 {
-  "name": "extensions",
+  "name": "ssjs",
   "version": "0.0.0",
   "description": "A basic routing strategy that works in node.js and WebPop",
-  "main": "index.js",
+  "main": "routing_strategy.js",
   "directories": {
   },
   "repository": {
