@@ -1,5 +1,5 @@
 {
-  "name": "routing_strategy",
+  "name": "extensions",
   "version": "0.0.0",
   "description": "A basic routing strategy that works in node.js and WebPop",
   "main": "index.js",
