@@ -1,0 +1,16 @@
+{
+  "name": "routing_strategy",
+  "version": "0.0.0",
+  "description": "A basic routing strategy that works in node.js and WebPop",
+  "main": "index.js",
+  "directories": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/8legd/ssjs_routing_strategy.git"
+  },
+  "author": "8legd",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
