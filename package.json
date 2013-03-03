@@ -1,13 +1,10 @@
 {
-  "name": "ssjs",
+  "name": "ssjs_routing",
   "version": "0.0.0",
-  "description": "A basic routing strategy that works in node.js and WebPop",
-  "main": "routing_strategy.js",
-  "directories": {
-  },
+  "description": "server side javascript micro components for routing",
   "repository": {
     "type": "git",
-    "url": "git://github.com/8legd/ssjs_routing_strategy.git"
+    "url": "git://github.com/8legd/ssjs_routing.git"
   },
   "author": "8legd",
   "license": "MIT",
